@@ -102,7 +102,7 @@ Contributions are welcome! Feel free to:
 
 ## ⚖️ License
 
-This project is open source and available under the MIT License. Note: The sale of this software is prohibited.
+Licensed under MIT with Attribution Requirement - see LICENSE file for details
 
 ## 🙏 Acknowledgments
 
