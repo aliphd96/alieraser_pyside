@@ -6,6 +6,29 @@ AliEraser is an open-source image editing application that combines powerful AI-
 ![License](https://img.shields.io/badge/License-Open%20Source-green)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)
 
+
+## 📺 Video Tutorials
+
+Aprende a usar AliEraser con estas guías detalladas en video:
+
+### 1. Introducción a AliEraser y Características Básicas
+[![Introducción a AliEraser](https://img.youtube.com/vi/DC7lqJfnmhM/0.jpg)](https://www.youtube.com/watch?v=DC7lqJfnmhM)
+- Introducción a la interfaz
+- Configuración inicial
+- Primeros pasos
+
+### 2. Borrado de Objetos con IA
+[![Borrado de Objetos](https://img.youtube.com/vi/DZkPgGq_vWc/0.jpg)](https://www.youtube.com/watch?v=DZkPgGq_vWc)
+- Uso del pincel de selección
+- Ajuste del tamaño del pincel
+- Procesamiento con LaMa inpainting
+
+### 3. Eliminación de Fondos y Características Avanzadas
+[![Características Avanzadas](https://img.youtube.com/vi/IpDBbe6BTcs/0.jpg)](https://www.youtube.com/watch?v=IpDBbe6BTcs)
+- Eliminación automática de fondos
+- Uso del historial de imágenes
+- Tips y trucos avanzados
+
 ## 🌟 Features
 
 - **AI-Powered Object Removal**: Using LaMa (Large Mask) inpainting model
