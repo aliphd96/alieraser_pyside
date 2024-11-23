@@ -24,7 +24,7 @@ Aprende a usar AliEraser con estas guías detalladas en video:
 - Procesamiento con LaMa inpainting
 
 ### 3. Eliminación de Fondos y Características Avanzadas
-[![Características Avanzadas](https://img.youtube.com/vi/IpDBbe6BTcs/0.jpg)](https://www.youtube.com/watch?v=IpDBbe6BTcs)
+[![Características Avanzadas](https://img.youtube.com/vi/P16q4DVD2dU/0.jpg)](https://www.youtube.com/watch?v=P16q4DVD2dU)
 - Eliminación automática de fondos
 - Uso del historial de imágenes
 - Tips y trucos avanzados
