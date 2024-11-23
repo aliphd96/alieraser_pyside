@@ -1,0 +1,63 @@
+/* Aumenta el tamaño de texto y redondea los bordes de los botones */
+QPushButton {
+    font-size: 16px;
+    padding: 6px 12px;
+    background-color: #65c3ba; /* Un color suave típico de iOS */
+    border: none;
+    border-radius: 6px; /* Bordes redondeados */
+}
+
+/* Configuración de la barra de herramientas y botones en ella con estilo iOS */
+QToolBar {
+    background-color: #f0f0f0; /* Color de fondo claro para la barra de herramientas, típico en iOS */
+    border: none; /* Sin bordes */
+    spacing: 10px; /* Espaciado entre herramientas */
+}
+
+/* Configuraciones para menús y elementos de menú con estilo iOS */
+QMenu {
+    font-size: 16px;
+    background-color: #f0f0f0; /* Fondo claro como en iOS */
+    border: 1px solid #c7c7c7; /* Borde sutil */
+}
+
+QMenu.item {
+    padding: 6px 12px;
+    background-color: transparent; /* Fondo transparente */
+}
+
+QMenu.item.selected {
+    background-color: #d6d6d6; /* Color de fondo al seleccionar, suave como en iOS */
+}
+
+/* Configuraciones para QLineEdit con estilo iOS */
+QLineEdit {
+    font-size: 16px;
+    height: 30px;
+    padding: 3px;
+    background-color: #ffffff; /* Fondo blanco */
+    border: 1px solid #c7c7c7; /* Borde sutil */
+    border-radius: 6px; /* Bordes redondeados */
+}
+
+/* Configuraciones para QComboBox con estilo iOS */
+QComboBox {
+    font-size: 16px;
+    padding: 6px;
+    background-color: #ffffff;
+    border: 1px solid #c7c7c7;
+    border-radius: 6px;
+}
+
+QComboBox QAbstractItemView {
+    font-size: 16px;
+    background-color: #f0f0f0;
+    selection-background-color: #d6d6d6;
+}
+
+/* Configuraciones para QLabel con estilo iOS */
+QLabel {
+    font-size: 16px;
+    color: #555555; /* Texto gris oscuro, común en iOS */
+}
+
